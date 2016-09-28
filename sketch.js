@@ -15,6 +15,7 @@ var interval = 1000;
 
 function setup() {
 
+	noCursor();
 
 	createCanvas(windowWidth, windowHeight);
 	background(255);
